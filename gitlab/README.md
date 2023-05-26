@@ -1,0 +1,1 @@
+Get merge request of week and group by title.
