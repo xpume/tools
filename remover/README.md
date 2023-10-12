@@ -1,0 +1,1 @@
+Remove files in the specified directory whose modification time is the specified time.
